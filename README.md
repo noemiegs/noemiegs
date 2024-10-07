@@ -34,6 +34,6 @@
 
 ## 📫 How to reach me:
 
-- **LinkedIn**: [ici](https://www.linkedin.com/in/noemiegl/)]
+- **LinkedIn**: [ici](https://www.linkedin.com/in/noemiegl/)
 
 ---
