@@ -1,18 +1,18 @@
 # Hi there 👋 I'm Noémie
 
-🎓 **Étudiante en M2 Intelligence Artificielle à CentraleSupélec**  
-💼 Je suis actuellement à la recherche d'un **stage de 6 mois** dans le domaine de l'**IA**, avec un intérêt particulier pour le **Deep Learning**, à partir de **mai 2025**.
+🎓 **Master's student in Artificial Intelligence at CentraleSupélec**  
+💼 I am currently looking for a **6-month internship** in the field of **AI**, with a particular interest in **Deep Learning**, starting in **May 2025**.
 
 ---
 
 ## 🍀 About Me
 
-- 🌟 Je travaille actuellement sur des projets d'IA appliqués à différents domaines tels que la détection d'anomalies et la vision par ordinateur.
-- 📖 J'approfondis mes connaissances en **Deep Learning**, **Apprentissage par Renforcement**, et **Traitement du Langage Naturel (NLP)**.
+- 🌟 I am currently working on AI projects applied to various fields such as anomaly detection and computer vision.
+- 📖 I am deepening my knowledge in **Deep Learning**, **Reinforcement Learning**, and **Natural Language Processing (NLP)**.
 
 ---
 
-## 🛠 Languages and Tools
+## 🛠 Languages and Tools :
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -31,7 +31,7 @@
 
 ---
 
-## 📫 How to reach me:
+## 📫 How to reach me :
 
 - **LinkedIn**: [ici](https://www.linkedin.com/in/noemiegl/)
 
