@@ -9,7 +9,6 @@
 
 - 🌟 Je travaille actuellement sur des projets d'IA appliqués à différents domaines tels que la détection d'anomalies et la vision par ordinateur.
 - 📖 J'approfondis mes connaissances en **Deep Learning**, **Apprentissage par Renforcement**, et **Traitement du Langage Naturel (NLP)**.
-- 🎯 Je suis passionnée par les technologies de l'IA, l'optimisation des algorithmes et l'application des modèles d'apprentissage dans des contextes concrets.
 
 ---
 
